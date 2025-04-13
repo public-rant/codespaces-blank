@@ -1,6 +1,6 @@
 {
     "name": "Kali Linux",
-    "image": "kali:latest",
+    "image": "kalilinux/kali-rolling:latest",
     "features": {
         "ghcr.io/devcontainers/features/sshd:1": {}
     },
